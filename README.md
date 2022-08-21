@@ -1,6 +1,6 @@
 # Weather 
 
-This is an example project to illustrate an implementation of Weather API using DRF
+This is an implementation of Weather API using DRF
 
 
 
